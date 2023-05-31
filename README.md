@@ -4,11 +4,8 @@
 
 # Introduction to Web Scrapping Using Python
 
-In this project, you will learn the basics of web scraping using Python. Web scraping is the process of automatically extracting data from websites. By the end of the project, you’ll be able to write Python scripts that can scrape web data, parse XML and HTML documents, and store the extracted data in a structured format.
-
-
-
-
+In this project, we will be exploring the basics of web scraping using Python. Web scraping involves extracting data from websites automatically.
+The end goal of this profect is to develop the ability to write Python scripts that can scrape data from websites, such as parsing HTML/XML documents, and saving this extracted data in a structured format.
 
 ## Skills You'll Learn
 •Sending Http requests using Python \
